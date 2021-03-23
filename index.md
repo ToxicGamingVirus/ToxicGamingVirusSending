@@ -10,9 +10,9 @@ I used the Quantum Loop Game and the Quasar Rat
 
 [Quantum Loop](https://cakeu.itch.io/quantum-loop)
 
-[Quasar Rat] (https://github.com/quasar/Quasar)
+Quasar Rat https://github.com/quasar/Quasar
 
-[Full package and SRC(Still Finishing The Repo link will not work yet)] (https://github.com/moto6333/ToxicGamingVirusSending)
+Full package and SRC Still Finishing The Repo link will not work yet https://github.com/moto6333/ToxicGamingVirusSending
 
 
 ### Info
