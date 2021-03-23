@@ -13,7 +13,7 @@ I used the Quantum Loop Game and the Quasar Rat
 
 Quasar Rat https://github.com/quasar/Quasar
 
-Full package and SRC Still Finishing The Repo link will not work yet https://github.com/moto6333/ToxicGamingVirusSending
+Full package and SRC https://github.com/ToxicGamingVirus/ToxicGamingVirusSending/tree/main/Quantum-Loop-Quasar
 ____________________________________________________________________
 
 ### Info
